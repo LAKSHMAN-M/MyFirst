@@ -6,5 +6,6 @@ class HelloWorld {
     int b = 20;
     int c = a + b;
     System.out.println("this is sum of "+a+" and "+b+" is " +c);
+    System.out.println(a+b);
   } 
 }
