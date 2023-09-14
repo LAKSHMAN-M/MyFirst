@@ -2,7 +2,7 @@ package com.lakshman.Projects;
 
 import java.util.Scanner;
 
-public class TicTokToe {
+public class tic_tac_toe {
 
 	public static void main(String[] args) {
 
